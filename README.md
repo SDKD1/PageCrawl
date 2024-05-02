@@ -21,7 +21,7 @@ Isso irá extrair e imprimir as URLs encontradas no código-fonte HTML da págin
 
 - Bash
 
-Certifique-se de ter Bash e curl instalados no seu sistema antes de executar o script.
+Certifique-se de ter Bash instalado no seu sistema antes de executar o script.
 
 ## Contribuição
 
