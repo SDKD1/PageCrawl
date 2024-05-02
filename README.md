@@ -12,7 +12,7 @@ cd HTMLParse
 
 3. Execute o script com a URL da página da web que deseja analisar:
 
-./HTMLParse.sh https://example.com
+./PageCrawl.sh https://example.com
 
 Isso irá extrair e imprimir as URLs encontradas no código-fonte HTML da página especificada.
 
