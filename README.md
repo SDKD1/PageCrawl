@@ -8,7 +8,7 @@ O script PageCrawl é uma ferramenta simples e eficaz para análisar o html de p
 git clone https://github.com/SDKD1/PageCrawl.git
 
 2. Navegue até o diretório clonado:
-cd HTMLParse
+cd PageCrawl
 
 3. Execute o script com a URL da página da web que deseja analisar:
 
